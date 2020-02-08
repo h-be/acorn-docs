@@ -1,6 +1,5 @@
 # Attributions List
 ###### tags:  `H-BE`, `Acorn`
-#### Created February 2020
 
 
 ## Icons
@@ -9,7 +8,7 @@
 | Image                | Source                                         | Licence                                                          |
 | -------------------- | ---------------------------------------------- | ---------------------------------------------------------------- |
 | acorn-logo           | https://thenounproject.com/                    | Creative Commons - royalty-free license purchased by H-BE*       |
-| activity-hisotry     |      https://uxwing.com with modificaations    | open source  |
+| activity-history     | https://uxwing.com with modificaations         | open source  |
 | archive              | https://uxwing.com                             | open source  |
 | arrow_curved         | https://www.scribbbles.design/                 | free for commercial and personal use |
 | attachement          | https://uxwing.com                             | open source  |
@@ -28,7 +27,7 @@
 | hierarchy            | created in-house                               | open source                                                      |
 | impact               | https://uxwing.com                             | open source                                                      |
 | importance           | https://uxwing.com                             | open source                                                      |
-| invlaid-mark         | https://uxwing.com with modifications          | open source                                                      |
+| invalid-mark         | https://uxwing.com with modifications          | open source                                                      |
 | leaf                 | https://uxwing.com                             | open source                                                      |
 | leaf                 | https://uxwing.com                             | open source                                                      |
 | line-angle-down      | https://uxwing.com                             | open source                                                      |
@@ -79,7 +78,13 @@ To compare licenses: https://docs.google.com/spreadsheets/u/1/d/1E8X2_xmJkkoeZwa
 | --------------- | ---------------------------------------------- | ---------------------------------------------------------------- |
 | avatar-placeholder      | https://pixabay.com/vectors/                             |Free for commercial use - No attribution required                                       |
 | intro-screen images     | created in-house using images from https://uxwing.com &  https://www.scribbbles.design/                             | open source                                                     |
-| spalsh-image    | https://unsplash.com/                | free for commercial and personal use - No credit required****                             |
+| splash-image            | https://unsplash.com/                | free for commercial and personal use - No credit required****                             |
 | pure css squirrel for EmptyState    | https://codepen.io/poziomq/pen/ZpmVbk with modifications                             | open source                                                      |
 
 ****See: https://unsplash.com/license
+
+
+---
+
+* H-BE refers to [Harris-Braun Enterprises](https://harris-braun.com)
+* in-house refers to within the team of Acorn contributors
