@@ -12,7 +12,7 @@
 
 Acorn is a way of organizing intended Goals and Outcomes in tree-like structures.  You can think of it as a virtual whiteboard for collaborative planning.
 
-It could have many uses, and one that it has served is organizing the vision and work allocation of distributed teams of software developers.  Other uses could be as a personal planning tool, for teams completely aside from software, or anything where linked/inter-related nodes in a structured form would be helpful. 
+It could have many uses, and [one that it has served is organizing the vision and work allocation of distributed teams of software developers](https://github.com/h-be/acorn-docs/blob/master/vision/Acorn%20(or%20Squirrel).md).  Other uses could be as a personal planning tool, for teams completely aside from software, or anything where linked/inter-related nodes in a structured form would be helpful. 
 
 Prefer a video introduction? [SoA Lightning Talk](https://www.youtube.com/embed/-z47R9wN5SQ?start=53&end=650&autoplay=1)
 
@@ -30,7 +30,7 @@ Acorn creates an Agile process based on the [Deming Plan/Do/Check/Act cycle](htt
 
 Scrum, the roles of Scrum Master, Product Owner, and Devs, and the embodied tools of Kan-Ban and ticketing linked to git based source control, feel like a defacto standard in software development.  For projects (software or otherwise) or organizations that do not find this model to be appropriate, or are finding it limiting, Acorn may provide a good alternative.  If you or your group have not used Scrum but are considering it, we welcome you to try Acorn first.
 
-[Learn more about the vision and theory behind Acorn.](https://github.com/h-be/acorn-docs/vision/Acorn%20(or%20Squirrel).md)
+[Learn more about the vision and theory behind Acorn.](https://github.com/h-be/acorn-docs/blob/master/vision/Acorn%20(or%20Squirrel).md)
 
 
 ### Who should use Acorn?
@@ -71,11 +71,11 @@ CAL was created for the Holochain project to protect both source code and user d
 
 ### Who developed it?
 
-Acorn was [envisioned](https://github.com/h-be/acorn-docs/blob/master/acorn_vision_doc.zip) and prototyped (using a third party platform) by the Holochain core development team in 2018 to organize their own planning and execution process.
+Acorn was [envisioned](https://github.com/h-be/acorn-docs/blob/master/vision/Acorn%20(or%20Squirrel).md) and prototyped (using a third party platform) by the Holochain core development team in 2018 to organize their own planning and execution process.
 
 In August 2019 a team, eventually including people on four continents, undertook a design process and began building Acorn on Holochain.  Contributors can be seen in our [Holochain repo](https://github.com/h-be/acorn-hc/graphs/contributors), our [UI repo](https://github.com/h-be/acorn-ui/graphs/contributors), for [documentation](https://github.com/h-be/acorn-docs/graphs/contributors), and [releases](https://github.com/h-be/acorn-release/graphs/contributors).
 
-Please consult [our AUTHORS file](https://github.com/h-be/acorn-docs/AUTHORS.md) for a list of contributors and their organizations.
+Please consult [our AUTHORS.md file](https://github.com/h-be/acorn-docs/blob/master/AUTHORS.md) for a list of contributors and their organizations.
 
 The team has been hosted and supported by [Harris-Braun Enterprises, LLC](https://harris-braun.com).
 
