@@ -80,6 +80,8 @@ To compare licenses: https://docs.google.com/spreadsheets/u/1/d/1E8X2_xmJkkoeZwa
 | intro-screen images     | created in-house using images from https://uxwing.com &  https://www.scribbbles.design/                             | open source                                                     |
 | splash-image            | https://unsplash.com/                | free for commercial and personal use - No credit required****                             |
 | pure css squirrel for EmptyState    | https://codepen.io/poziomq/pen/ZpmVbk with modifications                             | open source                                                      |
+| sad-squirrel                    | https://svgur.com/s/C22                        | not mentioned                                                       |
+
 
 ****See: https://unsplash.com/license
 
