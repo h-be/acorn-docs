@@ -88,3 +88,17 @@ To compare licenses: https://docs.google.com/spreadsheets/u/1/d/1E8X2_xmJkkoeZwa
 
 * H-BE refers to [Harris-Braun Enterprises](https://harris-braun.com)
 * in-house refers to within the team of Acorn contributors
+
+## Fonts
+
+There are two typefaces used in Acorn: 
+
+- HK Grotesk: an open source font.
+  - Designer: Alfredo Marco Pradil
+  - Foundry: Hanken Design Co.
+  - https://hanken.co/products/hk-
+  - http://hkgrotesk.com/
+
+- Gilroy Extra Bold and Light: these two Gilroy styles are free for download (for perosonal and commercial use) by the typeface creator.
+  - Designer: Radomir Tinkov
+  - https://tinkov.info/gilroy.html
