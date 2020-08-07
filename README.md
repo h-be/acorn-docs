@@ -59,7 +59,7 @@ Yes, all the code and documentation is available in these repositories:
 
 At writing, in addition to the many self created or open files, there are a small number of image files that have been licensed (by [Harris-Braun Enterprises, LLC](https://harris-braun.com) from nounproject.com and iconfinder.com) for use in Acorn.  We believe those would need to be replaced in a fork.  The Acorn team intends to replace these licensed images with completely free alternatives as soon as feasible. 
 
-Please consult [our ATTRIBUTION file](https://github.com/h-be/acorn-docs/ATTRIBUTION.md) for full details including other images, code, and prior work.
+Please consult [our ATTRIBUTION file](https://github.com/h-be/acorn-docs/blob/master/ATTRIBUTION.md) for full details including other images, code, and prior work.
 
 
 ### What license is Acorn under?  Why?
