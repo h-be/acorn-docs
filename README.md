@@ -77,7 +77,7 @@ The team has been hosted and supported by [Harris-Braun Enterprises, LLC](https:
 
 ### What are future plans for Acorn?
 
-Acorn is being developed on a regular basis. The alpha version is out soon. [Join our waiting list here](https://forms.gle/8QCNveDnDGwaWLoa7) and we'll invite you in to the first external alpha testing group!
+Acorn is being developed on a regular basis. **The alpha version is out soon. [Join our waiting list here](https://forms.gle/8QCNveDnDGwaWLoa7) and we'll invite you in to the first external alpha testing group!**
 
 You can also join [the open discussion on the Holochain forums](https://forum.holochain.org/c/projects/acorn/106), or [the development chat channel](https://chat.holochain.org/appsup/channels/acornstateofaffairs). ([let us know](mailto:info@harris-braun.com?chat.holochain.org%20invitation) if you need a chat.holochain.org invitation)
 
