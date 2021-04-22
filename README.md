@@ -13,7 +13,11 @@ Acorn is a way of organizing intended Goals and Outcomes in tree-like structures
 
 It could have many uses, and [one that it has served is organizing the vision and work allocation of distributed teams of software developers](https://github.com/h-be/acorn-docs/blob/master/vision/Acorn%20(or%20Squirrel).md).  Other uses could be as a personal planning tool, for teams completely aside from software, or anything where linked/inter-related nodes in a structured form would be helpful. 
 
-Prefer a video introduction? [SoA Lightning Talk](https://www.youtube.com/embed/-z47R9wN5SQ?start=53&end=650&autoplay=1)
+Prefer a video introduction?
+
+Check out [this Acorn demo (2020)](https://www.youtube.com/watch?v=-9GQN-Px12E) given at a Holochain Ecosystem Session.
+
+Also check out the [SoA Lightning Talk](https://www.youtube.com/embed/-z47R9wN5SQ?start=53&end=650&autoplay=1) given at [DWeb Camp 2019](https://dwebcamp.org/) to hear more about the initial concept of the project.
 
 It is built as a Holochain application, meaning it runs on decentralized peer-to-peer computing and can be used without server infrastructure or a hosting service.  The users of a particular Acorn instance are its hosting power.
 
