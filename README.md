@@ -45,8 +45,6 @@ Windows users should look at alternatives with Virtual Machines or via Holo in a
 
 To learn more, please [explore our documentation](https://github.com/h-be/acorn-docs/) or [download and install a working prototype version on macOS or Linux](https://github.com/h-be/acorn-release/releases/). The app also has an intro guide when you start it for the first time!
 
-**WARNING: Current releases are prototype level functionality, they should not be used for production purposes and data will be lost between releases.**
-
 
 ### Is it Open Source?
 
