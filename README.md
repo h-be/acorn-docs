@@ -4,6 +4,8 @@
 
 ![Acorn Map View Screenshot](./acorn-map-view-screenshot.png)
 
+![Acorn My Projects View Screenshot](./acorn-my-projects-screenshot.png)
+
 
 ### What is Acorn?
 
