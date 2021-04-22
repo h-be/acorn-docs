@@ -2,10 +2,7 @@
 
 [![Project](https://img.shields.io/badge/project-acorn-blue.svg?style=flat-square)](https://github.com/h-be/acorn-docs/) [![Chat](https://img.shields.io/badge/chat-chat%2eholochain%2eorg-blue.svg?style=flat-square)](https://chat.holochain.org/appsup/channels/acornstateofaffairs) [![Forum](https://img.shields.io/badge/forum-forum%2eholochain%2eorg-blue.svg?style=flat-square)](https://forum.holochain.org/c/projects/acorn/106) [![Issue](https://img.shields.io/badge/issue-github%2ecom-blue.svg?style=flat-square)](https://github.com/h-be/acorn-release/issues/new)
 
-[![CEPTR State of Affairs](https://i.imgur.com/vyvdfyn.png)](https://ceptr.org)
-
-
-## WARNING: Current releases are prototype level functionality, they should *not be used for production purposes* and data will be lost between releases.
+![Acorn Map View Screenshot](./acorn-map-view-screenshot.png)
 
 
 ### What is Acorn?
