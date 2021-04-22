@@ -51,9 +51,7 @@ To learn more, please [explore our documentation](https://github.com/h-be/acorn-
 ### Is it Open Source?
 
 Yes, all the code and documentation is available in these repositories:
-* [acorn-hc](https://github.com/h-be/acorn-hc) - Holochain DNA and zomes
-* [acorn-ui](https://github.com/h-be/acorn-ui) - User Interface code, images, etc.
-* [acorn-releases](https://github.com/h-be/acorn-release) - tooling to produce Acorn releases
+* [acorn](https://github.com/h-be/acorn)
 * [acorn-docs](https://github.com/h-be/acorn-docs) - Documentation across and about Acorn
 
 At writing, in addition to the many self created or open files, there are a small number of image files that have been licensed (by [Harris-Braun Enterprises, LLC](https://harris-braun.com) from nounproject.com and iconfinder.com) for use in Acorn.  We believe those would need to be replaced in a fork.  The Acorn team intends to replace these licensed images with completely free alternatives as soon as feasible. 
@@ -72,7 +70,7 @@ CAL was created for the Holochain project to protect both source code and user d
 
 Acorn was [envisioned](https://github.com/h-be/acorn-docs/blob/master/vision/Acorn%20(or%20Squirrel).md) and prototyped (using a third party platform) by the Holochain core development team in 2018 to organize their own planning and execution process.
 
-In August 2019 a team, eventually including people on four continents, undertook a design process and began building Acorn on Holochain.  Contributors can be seen in our [Holochain repo](https://github.com/h-be/acorn-hc/graphs/contributors), our [UI repo](https://github.com/h-be/acorn-ui/graphs/contributors), for [documentation](https://github.com/h-be/acorn-docs/graphs/contributors), and [releases](https://github.com/h-be/acorn-release/graphs/contributors).
+In August 2019 [Sprillow](https://sprillow.com) undertook a design process and began building Acorn on Holochain.  Contributors can be seen in our [Holochain repo](https://github.com/h-be/acorn-hc/graphs/contributors), our [UI repo](https://github.com/h-be/acorn-ui/graphs/contributors), for [documentation](https://github.com/h-be/acorn-docs/graphs/contributors), and [releases](https://github.com/h-be/acorn-release/graphs/contributors).
 
 Please consult [our AUTHORS.md file](https://github.com/h-be/acorn-docs/blob/master/AUTHORS.md) for a list of contributors and their organizations.
 
@@ -81,7 +79,7 @@ The team has been hosted and supported by [Harris-Braun Enterprises, LLC](https:
 
 ### What are future plans for Acorn?
 
-Take a look in Acorn!   If you install a release of Acorn and connect to our tree, you can see and contribute to the planning of future development.
+Acorn is being developed on a regular basis. The alpha version is out soon. [Join our waiting list here](https://forms.gle/8QCNveDnDGwaWLoa7) and we'll invite you in to the first external alpha testing group!
 
 You can also join [the open discussion on the Holochain forums](https://forum.holochain.org/c/projects/acorn/106), or [the development chat channel](https://chat.holochain.org/appsup/channels/acornstateofaffairs). ([let us know](mailto:info@harris-braun.com?chat.holochain.org%20invitation) if you need a chat.holochain.org invitation)
 
@@ -96,5 +94,5 @@ Please [submit an issue with your experience](https://github.com/h-be/acorn-rele
 ## License
 [![License: CAL v1.0 Beta 4](https://img.shields.io/badge/License-CAL%20v1.0%20Beta%204-blue.svg)](https://github.com/holochain/cryptographic-autonomy-license)
 
-Copyright (C) 2020, Harris-Braun Enterprises, LLC
+Copyright (C) 2021, Harris-Braun Enterprises, LLC
 
