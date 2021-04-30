@@ -57,7 +57,7 @@ Please consult [our ATTRIBUTION file](https://github.com/h-be/acorn-docs/blob/ma
 
 ### What license is Acorn under?  Why?
 
-Acorn is under the [Cryptographic Autonomy License v1.0](https://github.com/holochain/cryptographic-autonomy-license) (CAL), currently [approved by the Open Source Initiative (OSI)](https://opensource.org/licenses/CAL-1.0). 
+Acorn is under the [Cryptographic Autonomy License v1.0](https://github.com/holochain/cryptographic-autonomy-license) (CAL), [approved by the Open Source Initiative (OSI)](https://opensource.org/licenses/CAL-1.0). 
 
 CAL was created for the Holochain project to protect both source code and user data from restriction.  It frees an end user from having their data held from them by a party that develops or hosts software licensed under CAL.
 
